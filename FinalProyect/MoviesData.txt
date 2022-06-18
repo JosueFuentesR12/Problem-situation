@@ -1,0 +1,30 @@
+1,The Batman,153 ,Superhero,8.5
+2,Me before you,90  ,Romantic,5.4
+3,Avengers End Game,192 ,Superhero,9.4
+4,Top Gun: Maverick,126 ,Adventure,9.7
+5,Lightyear,84  ,Comedy,7.8
+6,Cha cha real smooth,88  ,Comedy,8.8
+7,Jurassic World Domination,144 ,Adventure,3.0
+8,Doctor Strange in the Multiverse of Madness,156 ,Superhero,7.4
+9,Spider-Man No Way Home,136 ,Superhero,9,3
+10,John Wick 3,126 ,Adventure,8.9
+11,Bohemian Rhapsody,129 ,Biography,6.0
+12,Thor: Ragnarok,126 ,Superhero,9.3
+13,Batman vs Superman,139 ,Superhero,2.9
+14,Sonic 2,132 ,Comedy,6.9
+15,Yesterday,93  ,Music,6.4
+16,Love Death and Robot T1 Episode 6,16  ,Animation,8.5
+17,Black Mirror T3 Episode 1,61  ,Science fiction,8.4
+18,Squid Game T1 Episode 1,60  ,Science fiction,9.5
+19,Rick and Morty T1 Episode 1,22  ,Animation,9.4
+20,Breaking Bad T5 Episode 14,47  ,Drama,9.6
+21,The Walking Dead T1 Episode 1,64  ,Science fiction,8.0
+22,Arcane T1 Episode 9,39  ,Animation,10
+23,Stranger Things T4 Episode 4,70  ,Adventure,9.1
+24,Demon Slayer T1 Epidsode 1,24  ,Animation,9.8
+25,The Seven Deadly Sins T1 Episode 24,24  ,Animation,6.2
+26,Shingeki No Kyojin T1 Episode 1,24  ,Animation,9.6
+27,Dark T1 Episode 1,51  ,Adventure,9.5
+28,The Flash T6 Episode 8,42  ,Science fiction,8.9
+29,13 Reasons Why T1 Episode 10,50  ,Drama,3.5
+30,Dr. House T6 Episode 6,43  ,Drama,8.9
