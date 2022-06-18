@@ -1,18 +1,8 @@
 #include <iostream>
 #include "Video.h"
 
-
-
 //Carlos Alberto Mendoza Medina A01661896 
 //Jonathan Josué Fuentes Ramírez A01661894
-
-
-
-
-
-
-
-
 
 class Movie:public Video{
     public:
